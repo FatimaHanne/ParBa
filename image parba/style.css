@@ -1,0 +1,42 @@
+.menu1 ul{
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+}
+.menu2 ul{
+    float: right;
+    display: flex;
+    list-style-type: none;
+
+}
+.menu1 ul li{
+    background-color: #00353F;
+}
+.menu1 ul li a{
+    color: white;
+}
+.menu2 ul li{
+    margin-top: -50px;
+    padding-right: 15px;
+}
+a{
+    text-decoration: none;
+    display:block;    
+    min-width: 80px; 
+    text-align: center;
+}
+.logo{
+    margin-top: 25px;
+    margin-left: 70px;
+}
+
+.text{
+    padding-left: 150px;
+    padding-top: 140px;
+
+}
+h1{
+    color: #00353F;
+}
+
+    
